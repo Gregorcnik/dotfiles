@@ -1,0 +1,13 @@
+bat
+htop
+mailsy
+neofetch
+neovim
+tldr
+tree
+yazi
+aerospace
+alacritty
+font-meslo-lg-nerd-font
+time-out
+raycast

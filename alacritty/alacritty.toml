@@ -1,0 +1,24 @@
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 15
+padding.y = 20
+
+dimensions = {columns = 159, lines = 37}
+
+decorations = "Buttonless"
+
+opacity = 1
+blur = true
+
+[font]
+normal.family = "MesloLGS Nerd Font Mono"
+
+size = 13.5
+
+[general]
+import = [
+	"~/.config/alacritty/themes/everforest.toml"
+]
